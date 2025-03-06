@@ -11,12 +11,12 @@ This project aims to analyze Twitter (X) data to assess sentiments surrounding v
 - **Tweepy**: Used to connect to the Twitter API (now X API) and collect tweets.
 - **spaCy**: Advanced NLP tools for text processing, including entity recognition.
 - **VADER (Valence Aware Dictionary and sEntiment Reasoner)**: A sentiment analysis tool for categorizing tweets into positive, negative, or neutral sentiments.
+- **BERT** **(Bidirectional encoder representation from transformers)**: it is used for fine-tuning and mainly used for search engine and text classification.
 - **Plotly**: Interactive visualizations for sentiment trends and analysis.
 - **WordCloud**: For generating visualizations of frequent words from positive/negative tweets.
 - **Pandas & NumPy**: For data manipulation and analysis.
-
+  
 ---
-
 ## Project Structure
 
 ### 1. Data Collection
